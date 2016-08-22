@@ -6,13 +6,14 @@ simple benchmark of c and php
 2. php-cli
 
 or run:
-  # sudo apt-get install gcc php5-cli
+> # sudo apt-get install gcc php5-cli
 
 
 ## Useage
 
-  # $./run.sh
+> # ./run.sh
 
+```
 conter test
 conter.php test
 Counting 0 to 10000000
@@ -43,4 +44,5 @@ Compute md5(hello) , 10000 times!
 real	0m0.015s
 user	0m0.012s
 sys	0m0.000s
+```
 
